@@ -46,7 +46,7 @@
   font-style: normal;
   font-size: 18px;
   line-height: 1.35;
-  text-underline-offset: 4px;  
+  text-underline-offset: 4px;
   justify-self: end;
   letter-spacing: 0.01em;
   padding-right: 35px;
@@ -278,7 +278,7 @@
 footer {
   display: flex;
   justify-content: space-between;
-  padding: 0  50px;  
+  padding: 0  50px;
 }
 
 .footer__menu-list {
